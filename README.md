@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
 I just want my daugheter to go to sleep.
